@@ -8,7 +8,7 @@
 
 ###Tools Used
 
---Numpy
+-- Numpy
 <li>Pandas
 
 
