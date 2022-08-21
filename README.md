@@ -3,6 +3,7 @@
 </p>
 
 # Data-Analysis---Data-Visualization
+
 ## Analyzed and Visualized a particular course in Udemy.
 I have Downloaded the DataSet from Kaggle. I focus on Exploratory Data Analysis by using (Pandas and numpy) and the Visualization of the data with QuasarPage.
 
@@ -11,5 +12,14 @@ I have Downloaded the DataSet from Kaggle. I focus on Exploratory Data Analysis 
 <li>Numpy
 <li>Pandas
 <li>QuasarPage
+  
+### Main Packages Used
+  
+```
+import justpy as jp
+import numpy as np
+import pandas
+```
+  
 
 
