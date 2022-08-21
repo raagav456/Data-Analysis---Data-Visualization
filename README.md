@@ -3,4 +3,12 @@
 </p>
 
 # Data-Analysis---Data-Visualization
-Analyzed  and Visualized a particular course in Udemy 
+
+##Analyzed and Visualized a particular course in Udemy.
+
+###Tools Used
+
+--Numpy
+<li>Pandas
+
+
