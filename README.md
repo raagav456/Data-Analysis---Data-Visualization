@@ -5,6 +5,7 @@
 # Data-Analysis---Data-Visualization
 
 ## Analyzed and Visualized a particular course in Udemy.
+I have Downloaded the DataSet from Kaggle. I focus on Exploratory Data Analysis by using (Pandas and numpy) and the Visualization of the data with QuasarPage.
 
 ### Tools Used
 
