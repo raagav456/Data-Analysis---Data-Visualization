@@ -4,11 +4,12 @@
 
 # Data-Analysis---Data-Visualization
 
-##Analyzed and Visualized a particular course in Udemy.
+## Analyzed and Visualized a particular course in Udemy.
 
-###Tools Used
+### Tools Used
 
--- Numpy
+<li>Numpy
 <li>Pandas
+<li>QuasarPage
 
 
